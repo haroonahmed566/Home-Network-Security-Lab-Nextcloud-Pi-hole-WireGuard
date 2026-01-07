@@ -13,3 +13,11 @@ Self-hosting and service hardening
 Troubleshooting on limited hardware
 
 Small personal projects like this are hugely valuable because they force you to actually build, break, and fix real systems, not just read about them.
+
+![Network Diagram] (Diagrams/NetworkDiagram.png)
+
+![pihole Dashboard] (Diagrams/PiHoleDashboard.jpg)
+
+![wireguard Dashboard] (Diagrams/wireguardDashboard.jpg)
+
+![Nextcloud Dashboard] (Diagrams/nextcloudDashboard.jpg)
