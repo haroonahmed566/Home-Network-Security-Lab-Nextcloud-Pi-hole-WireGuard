@@ -14,7 +14,7 @@ Troubleshooting on limited hardware
 
 Small personal projects like this are hugely valuable because they force you to actually build, break, and fix real systems, not just read about them.
 
-![Network Diagram](Diagrams/NetworkDiagram.png)
+![Network Diagram](Diagrams/Network-Diagram.png)
 
 ![pihole Dashboard](Diagrams/PiHoleDashboard.jpg)
 
